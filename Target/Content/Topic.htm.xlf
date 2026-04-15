@@ -68,11 +68,11 @@
         phase-name="pretrans"><source>one</source><seg-source><mrk
             mtype="seg"
             mid="1">one</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">ws</mrk></target></trans-unit><trans-unit
         id="4"
         restype="x-xml-p"
         phase-name="pretrans"><source>two</source><seg-source><mrk
