@@ -92,7 +92,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:matchPercent="0">sasa</mrk></target></trans-unit><trans-unit
         id="6"
         restype="x-xml-p"
         phase-name="pretrans"><source>four</source><seg-source><mrk
