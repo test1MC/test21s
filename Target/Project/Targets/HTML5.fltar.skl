@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="MadCap HTML5 Target" Type="WebHelp2" Destinations="" ShowMadCapBacklink="true" GlossaryTermConversion="marked" ResolveCssVariables="true">
+    <PrintedOutput CollapseMargins="true" GenerateTOCProxy="true" GenerateIndexProxy="true" GenerateGlossaryProxy="true" />
+    <Variables>
+        <Variable Name="Variables/CompanyName">砻קยด1ตว融</Variable>
+        <Variable Name="Variables/PhoneNumber">砻קยด2ตว融</Variable>
+    </Variables>
+</CatapultTarget>
